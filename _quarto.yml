@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: Pinki Kumari
+  title: Navneet Sharma
   navbar:
     right:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
         text: Teaching Assistant
       - href: projects.qmd
         text: Projects
-      - href: files/Pinki_KUMARI.pdf
+      - href: files/Navneet_SHARMA.pdf
         text: Resume
         
 
