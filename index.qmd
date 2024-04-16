@@ -1,6 +1,6 @@
 ---
 title: Navneet Sharma
-image: images/navneet.jpg
+image: images/navneet.jpeg
 about:
   template: trestles
   image-width: 15em
